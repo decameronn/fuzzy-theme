@@ -1,0 +1,21 @@
+{
+    "name": "fuzzy",
+    "displayName": "FuZZy",
+    "description": "Daylight fuzzy, eye-caring colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FuZZy Theme",
+                "uiTheme": "vs",
+                "path": "./themes/FuZZy Theme-color-theme.json"
+            }
+        ]
+    }
+}
