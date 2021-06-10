@@ -2,6 +2,7 @@
 ## About
 A light, eye-caring theme for Visual Studio Code.  
 Initial verison (0.0.1)  
+This is work in progress.  
 ## Quick Install
 1. Open the extensions sidebar on VS Code (<kbd>Ctrl</kbd>+<kbd>X</kbd> or <kbd>Cmd</kbd>+<kbd>X</kbd>)  
 2. Search for **FuZZy Theme**.  
