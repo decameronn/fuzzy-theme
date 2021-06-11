@@ -11,5 +11,6 @@ This is work in progress.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ FuZZy Theme.  
 6. 🏆 Rate five-stars as appreciation for the effort put into this theme.  
 
-### Initial version
-This is the initial version of the FuZZy Theme.  
+### Progress versioning
+Initial version upload
+Add workbench colors
