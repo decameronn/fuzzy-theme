@@ -15,8 +15,8 @@
 		"activityBar.activeBackground": "#ececec",
 
 		// Sidebar
-		"sideBar.background": "#FFFFFF",
-		"sideBar.border": "#b0ddfc",
+		"sideBar.background": "#fafafa",
+		"sideBar.border": "#ececec",
 		"sideBar.foreground": "#01325f",
 		"sideBarSectionHeader.background": "#ececec",
 		"sideBarSectionHeader.foreground": "#2e87ec",
@@ -24,8 +24,7 @@
 		"sideBarSectionHeader.border": "#ececec",
 
 		// Editor
-		"editor.background": "#FFFFFF",
-		// "editor.foreground": "#01325f",
+		"editor.background": "#fafafa",
 		"editorLineNumber.foreground": "#2e87ec",
 		"editorCursor.foreground": "#01325f",
 
@@ -39,8 +38,8 @@
 		// Status bar
 		"statusBar.background": "#ececec",
 		"statusBar.foreground": "#01325f",
-		"statusBarItem.remoteForeground": "#ffffff",
-		"statusBarItem.remoteBackground": "#0a6e45",
+		"statusBarItem.remoteForeground": "#fafafa",
+		"statusBarItem.remoteBackground": "#fa8500",
 		"statusBar.debuggingBackground": "#ececec",
 		"statusBar.debuggingForeground": "#ff0000",
 		
@@ -100,7 +99,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#01325f"
+				"foreground": "#2e87ec"
 			}
 		},
 		{
@@ -111,7 +110,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#01325f"
+				"foreground": "#2e87ec"
 			}
 		},
 		{
@@ -143,7 +142,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#aa3731"
+				"foreground": "#0056a7"
 			}
 		},
 		{
@@ -202,7 +201,7 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -223,7 +222,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -297,7 +296,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#aa3731"
+				"foreground": "#01325f"
 			}
 		},
 		{
@@ -367,14 +366,14 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#666666"
 			}
 		},
 		{
 			"name": "Markup: Prompt",
 			"scope": "markup.prompt",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -412,13 +411,13 @@
 				"foreground": "#2e87ec"
 			}
 		},
-		{
-			"name": "Markup Lists",
-			"scope": "markup.list",
-			"settings": {
-				"foreground": "#4B83CD"
-			}
-		},
+		// {
+		// 	"name": "Markup Lists",
+		// 	"scope": "markup.list",
+		// 	"settings": {
+		// 		"foreground": "#2e87ec"
+		// 	}
+		// },
 		{
 			"name": "Markup Styling",
 			"scope": [
