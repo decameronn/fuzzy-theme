@@ -1,8 +1,11 @@
 {
-    "name": "fuzzy",
-    "displayName": "FuZZy",
-    "description": "Daylight fuzzy, eye-caring colors.",
+    "name": "fuzzy-theme",
+    "displayName": "FuZZy Theme",
+    "description": "Daylight, fuzzy and eye-caring colors.",
     "version": "0.0.1",
+    "author": "Decameron",
+    "publisher": "decameron",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -17,5 +20,15 @@
                 "path": "./themes/FuZZy Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "theme",
+        "light",
+        "blueish"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/decameronn/fuzzy-theme/"
+    },
+    "homepage": "https://github.com/decameronn/fuzzy-theme/"
 }
