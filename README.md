@@ -11,6 +11,7 @@ This is work in progress.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ FuZZy Theme.  
 6. 🏆 Rate five-stars as appreciation for the effort put into this theme.  
 
-### Progress versioning
-Initial version upload
-Add workbench colors
+## Look & Feel
+### C Code
+
+![C Code Sample](/images/c_code.png)
