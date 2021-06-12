@@ -45,10 +45,10 @@
     "selection.background": "#b0ddfcbb",
     "minimap.selectionHighlight": "#b0ddfcbb",
 
-    // Tab bar
+    // Title & Tab bars
     "tab.inactiveBackground": "#ececec",
     "tab.lastPinnedBorder": "#2e87ec",
-    "titleBar.activeBackground": "#ececec",
+    "titleBar.activeBackground": "#e0e0e0",
 
     // Status bar
     "statusBar.background": "#ececec",
@@ -163,7 +163,7 @@
         "keyword.other.operator"
       ],
       "settings": {
-        "foreground": "#2e81e0"
+        "foreground": "#2d7ad3"
       }
     },
     {
