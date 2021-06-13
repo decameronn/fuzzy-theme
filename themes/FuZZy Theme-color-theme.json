@@ -28,7 +28,7 @@
     "editor.lineHighlightBackground": "#dff2ffaa",
     "editorCursor.foreground": "#01325f",
     "editorWhitespace.foreground": "#ececec",
-    "editorBracketMatch.border": "#dc3958",
+    "editorBracketMatch.border": "#b0ddfcaa",
 
     // Selection and Minimap
     "selection.background": "#b0ddfcbb",

@@ -1,8 +1,8 @@
 {
 	"name": "fuzzy-theme",
 	"displayName": "FuZZy Theme",
-	"description": "Daylight, fuzzy and eye-caring colors.",
-	"version": "0.0.1",
+	"description": "A daylight FuZZy Theme, with eye-caring colors, made with 🧡",
+	"version": "1.0.0",
 	"author": "Decameron",
 	"publisher": "decameron",
 	"icon": "images/icon.png",
@@ -22,9 +22,11 @@
 		]
 	},
 	"keywords": [
+		"fuzzy",
 		"theme",
 		"light",
-		"blueish"
+		"blueish",
+		"eye care"
 	],
 	"repository": {
 		"type": "git",
