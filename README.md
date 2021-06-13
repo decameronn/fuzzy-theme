@@ -20,4 +20,4 @@ A light, eye-caring theme for VS Code, made with 🧡.
 ### Java 
 ![Java Code Sample](/images/java_code.png)
 ### Javascript 
-![Javascript Code Sample](/images/py_code.png)
+![Javascript Code Sample](/images/js_code.png)
