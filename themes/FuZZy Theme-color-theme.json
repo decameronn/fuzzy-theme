@@ -2,7 +2,7 @@
   "name": "FuZZy Theme",
   "type": "light",
   "colors": {
-    // Panel Title
+    // Panel
     "panelTitle.activeBorder": "#fa8500",
     "panelTitle.activeForeground": "#1b60a5",
     "panelTitle.inactiveForeground": "#2e87ec",
@@ -83,14 +83,10 @@
     // Lists & Quick Input
     "list.activeSelectionBackground": "#b0ddfc",
     "list.activeSelectionForeground": "#01325f",
-    "list.inactiveSelectionBackground": "#ececec", /* activity bar area */
+    "list.inactiveSelectionBackground": "#ececec",
     "list.inactiveSelectionForeground": "#01325f",
     "list.highlightForeground": "#fa8500",
     "list.hoverBackground": "#c5e6fcbb",
-    // "quickInput.background": "#ececec",
-    // "quickInput.foreground": "#01325f",
-    // "quickInputList.focusBackground": "#b0ddfc",
-    // "quickInputList.focusForeground": "#af1400",
 
     // Terminal & Dropdown
     "terminal.background": "#fafafa",
