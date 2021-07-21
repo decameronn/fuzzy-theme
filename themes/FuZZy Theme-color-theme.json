@@ -381,7 +381,7 @@
       "name": "Separator",
       "scope": "meta.separator",
       "settings": {
-        "foreground": "#d3af86"
+        "foreground": "#01325f"
       }
     },
     {
