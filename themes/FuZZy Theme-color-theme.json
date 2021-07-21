@@ -364,6 +364,13 @@
       }
     },
     {
+      /* Parameters in .bat files */
+      "scope": "meta.block",
+      "settings": {
+        "foreground": "#f79a32"
+      }
+    },
+    {
       "name": "Lists",
       "scope": "markup.list",
       "settings": {
