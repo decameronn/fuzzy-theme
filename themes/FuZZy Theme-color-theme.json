@@ -104,10 +104,7 @@
     },
     {
       "scope": [
-        "meta.embedded",
-        "source.groovy.embedded",
-        "source.elixir.embedded",
-        "source.coffee.embedded"
+        "meta.embedded"
       ],
       "settings": {
         "foreground": "#01325f"
