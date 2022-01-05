@@ -25,7 +25,7 @@
     "editorHoverWidget.background": "#131313",
     "editorGroupHeader.tabsBackground": "#131313",
     "editorLineNumber.activeForeground": "#057aff",
-    "editor.lineHighlightBackground": "#dff2ffaa",
+    "editor.lineHighlightBackground": "#200d00aa", //x
     "editorCursor.foreground": "#fecda0",
     "editorWhitespace.foreground": "#131313",
     "editorBracketMatch.border": "#b0ddfcaa",
