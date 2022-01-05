@@ -38,6 +38,7 @@
     "tab.inactiveBackground": "#131313",
     "tab.lastPinnedBorder": "#d17813",
     "titleBar.activeBackground": "#1f1f1f", //x
+    "titleBar.activeForeground": "#fecda0",
 
     // Status bar
     "statusBar.background": "#131313",
