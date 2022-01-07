@@ -1,5 +1,6 @@
 {
   "name": "FuZZy Theme Dark",
+  "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
     // Panel
@@ -39,10 +40,12 @@
     "tab.lastPinnedBorder": "#d17813",
     "titleBar.activeBackground": "#1f1f1f", //x
     "titleBar.activeForeground": "#fecda0",
+    "titleBar.inactiveBackground": "#303030",
 
     // Status bar
     "statusBar.background": "#131313",
     "statusBar.foreground": "#fecda0",
+    "statusBar.inactiveBackground": "#303030",
     "statusBar.debuggingBackground": "#131313",
     "statusBar.debuggingForeground": "#fecda0",
     "statusBar.noFolderBackground": "#131313",
