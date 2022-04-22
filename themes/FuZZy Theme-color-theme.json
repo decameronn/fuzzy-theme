@@ -1,7 +1,25 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "FuZZy Theme",
   "type": "light",
   "colors": {
+    // Activity bar
+		"activityBar.activeBorder": "#C5CBFF",
+		"activityBar.background": "#ececec",
+		"activityBar.border": "#373F42",
+		"activityBar.dropBorder": "#C5CBFF",
+		"activityBar.foreground": "#01325f",
+		"activityBar.inactiveForeground": "#2e87ec",
+		"activityBarBadge.background": "#fa8500",
+		"activityBarBadge.foreground": "#ececec",
+
+    // Activity bar
+    // "activityBar.background": "#ececec",
+    // "activityBar.foreground": "#01325f",
+    // "activityBarBadge.background": "#fa8500",
+    // "activityBarBadge.foreground": "#ececec",
+    // "activityBar.inactiveForeground": "#2e87ec",
+
     // Panel
     "panelTitle.activeBorder": "#fa8500",
     "panelTitle.activeForeground": "#1b60a5",
@@ -47,13 +65,6 @@
     "statusBar.noFolderBackground": "#ececec",
     "statusBarItem.remoteBackground": "#fa8500",
     "statusBarItem.remoteForeground": "#ececec",
-
-    // Activity bar
-    "activityBar.background": "#ececec",
-    "activityBar.foreground": "#01325f",
-    "activityBarBadge.background": "#fa8500",
-    "activityBarBadge.foreground": "#ececec",
-    "activityBar.inactiveForeground": "#2e87ec",
 
     // Sidebar
     "sideBar.background": "#fafafa",
