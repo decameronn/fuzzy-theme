@@ -13,12 +13,11 @@
 		"activityBarBadge.background": "#fa8500",
 		"activityBarBadge.foreground": "#ececec",
 
-    // Activity bar
-    // "activityBar.background": "#ececec",
-    // "activityBar.foreground": "#01325f",
-    // "activityBarBadge.background": "#fa8500",
-    // "activityBarBadge.foreground": "#ececec",
-    // "activityBar.inactiveForeground": "#2e87ec",
+    // Badge & Banner
+    "badge.background": "#fa8500",
+    "badge.foreground": "#ececec",
+		"banner.background": "#fa8500",
+		"banner.foreground": "#ececec",
 
     // Panel
     "panelTitle.activeBorder": "#fa8500",
@@ -84,9 +83,7 @@
     "peekViewEditor.background": "#ececec",
     "peekViewEditor.matchHighlightBackground": "#b0ddfc",
 
-    // Badge
-    "badge.background": "#fa8500",
-    "progressBar.background": "#ececec",
+
 
     // Button
     "button.background": "#fa8500",
