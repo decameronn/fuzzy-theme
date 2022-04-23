@@ -6,7 +6,7 @@
     // Activity bar
 		"activityBar.activeBorder": "#C5CBFF",
 		"activityBar.background": "#ececec",
-		"activityBar.border": "#373F42",
+		"activityBar.border": "#dadada",
 		"activityBar.dropBorder": "#C5CBFF",
 		"activityBar.foreground": "#01325f",
 		"activityBar.inactiveForeground": "#2e87ec",
