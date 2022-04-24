@@ -13,11 +13,18 @@
 		"activityBarBadge.background": "#fa8500",
 		"activityBarBadge.foreground": "#ececec",
 
-    // Badge & Banner
+    // Badge and Banner
     "badge.background": "#fa8500",
     "badge.foreground": "#ececec",
 		"banner.background": "#fa8500",
 		"banner.foreground": "#ececec",
+
+    // Breadcrumb
+		"breadcrumb.activeSelectionForeground": "#fa8500",
+		"breadcrumb.background": "#ececec",
+		"breadcrumb.focusForeground": "#22282b",
+		"breadcrumb.foreground": "#252526",
+		"breadcrumbPicker.background": "#ececec",
 
     // Panel
     "panelTitle.activeBorder": "#fa8500",
