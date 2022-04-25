@@ -30,6 +30,11 @@
     "button.background": "#fa8500",
     "button.foreground": "#ececec",
 
+    // Debugger
+		"debugExceptionWidget.background": "#ececec",
+		"debugExceptionWidget.border": "#C5CBFF",
+		"debugToolBar.background": "#ececec",
+
     // Panel
     "panelTitle.activeBorder": "#fa8500",
     "panelTitle.activeForeground": "#1b60a5",
