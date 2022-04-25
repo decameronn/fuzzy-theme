@@ -26,6 +26,10 @@
 		"breadcrumb.foreground": "#252526",
 		"breadcrumbPicker.background": "#ececec",
 
+    // Button
+    "button.background": "#fa8500",
+    "button.foreground": "#ececec",
+
     // Panel
     "panelTitle.activeBorder": "#fa8500",
     "panelTitle.activeForeground": "#1b60a5",
@@ -92,8 +96,7 @@
 
 
 
-    // Button
-    "button.background": "#fa8500",
+
 
     // Lists & Quick Input
     "list.activeSelectionBackground": "#b0ddfc",
