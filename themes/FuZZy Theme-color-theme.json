@@ -35,11 +35,16 @@
 		"debugExceptionWidget.border": "#C5CBFF",
 		"debugToolBar.background": "#ececec",
 
-        // Diff
-		"descriptionForeground": "#686868b3", //ccccccb3
+    // Diff
+		"descriptionForeground": "#686868b3",
 		"diffEditor.diagonalFill": "#cccccc33",
 		"diffEditor.insertedTextBackground": "#9bb95533",
 		"diffEditor.removedTextBackground": "#ff000025", 
+
+    // Dropdown
+		"dropdown.background": "#ececec",
+		"dropdown.border": "#C5CBFF",
+		"dropdown.foreground": "#af1400",
 
     // Panel
     "panelTitle.activeBorder": "#fa8500",
@@ -117,12 +122,10 @@
     "list.highlightForeground": "#fa8500",
     "list.hoverBackground": "#c5e6fcbb",
 
-    // Terminal & Dropdown
+    // Terminal
     "terminal.background": "#fafafa",
     "terminal.dropBackground": "#ececec",
     "terminal.foreground": "#01325f",
-    "dropdown.background": "#ececec",
-    "dropdown.foreground": "#af1400",
   },
   "tokenColors": [
     {
