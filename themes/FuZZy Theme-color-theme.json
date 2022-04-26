@@ -35,6 +35,12 @@
 		"debugExceptionWidget.border": "#C5CBFF",
 		"debugToolBar.background": "#ececec",
 
+        // Diff
+		"descriptionForeground": "#686868b3", //ccccccb3
+		"diffEditor.diagonalFill": "#cccccc33",
+		"diffEditor.insertedTextBackground": "#9bb95533",
+		"diffEditor.removedTextBackground": "#ff000025", 
+
     // Panel
     "panelTitle.activeBorder": "#fa8500",
     "panelTitle.activeForeground": "#1b60a5",
