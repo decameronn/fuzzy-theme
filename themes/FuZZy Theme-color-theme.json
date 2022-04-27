@@ -46,6 +46,23 @@
 		"dropdown.border": "#C5CBFF",
 		"dropdown.foreground": "#af1400",
 
+    // Editor
+    "editor.background": "#fafafa",
+    "editor.foreground": "#01325f",
+    "editor.selectionBackground": "#b0ddfcaa",
+    "editorWidget.background": "#ececec",
+    "editorHoverWidget.background": "#ececec",
+    "editorGroupHeader.tabsBackground": "#ececec",
+    "editorLineNumber.activeForeground": "#fa8500",
+    "editor.lineHighlightBackground": "#dff2ffaa",
+    "editorCursor.foreground": "#01325f",
+    "editorWhitespace.foreground": "#ececec",
+    "editorBracketMatch.border": "#b0ddfcaa",
+
+    // Extension Button
+		"extensionButton.prominentBackground": "#fa8500",
+		"extensionButton.prominentHoverBackground": "#fa8500",
+
     // Panel
     "panelTitle.activeBorder": "#fa8500",
     "panelTitle.activeForeground": "#1b60a5",
@@ -60,19 +77,6 @@
     "inputValidation.warningBackground": "#01325f",
     "inputValidation.errorBackground": "#01325f",
     "inputValidation.errorBorder": "#dc3958",
-
-    // Editor
-    "editor.background": "#fafafa",
-    "editor.foreground": "#01325f",
-    "editor.selectionBackground": "#b0ddfcaa",
-    "editorWidget.background": "#ececec",
-    "editorHoverWidget.background": "#ececec",
-    "editorGroupHeader.tabsBackground": "#ececec",
-    "editorLineNumber.activeForeground": "#fa8500",
-    "editor.lineHighlightBackground": "#dff2ffaa",
-    "editorCursor.foreground": "#01325f",
-    "editorWhitespace.foreground": "#ececec",
-    "editorBracketMatch.border": "#b0ddfcaa",
 
     // Selection and Minimap
     "selection.background": "#b0ddfcbb",
