@@ -4,7 +4,7 @@ We are pleased to announce that we are working on a dark version of the theme.
 Stay tuned!
 
 ## About
-A light, eye-caring theme for VS Code, made with 🧡.  All suggestions are welcomed!  
+A light, eye-caring theme for VS Code, made with 🧡.  All suggestions are welcome!  
 🥋 FuZZy Dark Theme - Work in progress. 🥋 
 
 ## Quick Install
