@@ -63,10 +63,8 @@
 		"extensionButton.prominentBackground": "#fa8500",
 		"extensionButton.prominentHoverBackground": "#fa8500",
 
-    // Panel
-    "panelTitle.activeBorder": "#fa8500",
-    "panelTitle.activeForeground": "#1b60a5",
-    "panelTitle.inactiveForeground": "#2e87ec",
+		// Icon (temporary color)
+		// "icon.foreground": "#c5c5c5",
 
     // Input
     "input.background": "#ececec",
@@ -77,6 +75,12 @@
     "inputValidation.warningBackground": "#01325f",
     "inputValidation.errorBackground": "#01325f",
     "inputValidation.errorBorder": "#dc3958",
+
+    // Panel
+    "panelTitle.activeBorder": "#fa8500",
+    "panelTitle.activeForeground": "#1b60a5",
+    "panelTitle.inactiveForeground": "#2e87ec",
+
 
     // Selection and Minimap
     "selection.background": "#b0ddfcbb",
