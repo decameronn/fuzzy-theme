@@ -1,11 +1,11 @@
 # FuZZy Theme for Visual Studio Code
+
 ## News
 We are pleased to announce that we are working on a dark version of the theme.  
 Stay tuned!
 
 ## About
-A light, eye-caring theme for VS Code, made with 🧡.  All suggestions are welcome!  
-🥋 FuZZy Dark Theme - Work in progress. 🥋 
+A light, eye-caring theme for VS Code, made with 🧡.  All suggestions are welcome!
 
 ## Quick Install
 1. Open the extensions sidebar on VS Code (<kbd>Ctrl</kbd>+<kbd>X</kbd> or <kbd>Cmd</kbd>+<kbd>X</kbd>)  
@@ -23,4 +23,4 @@ A light, eye-caring theme for VS Code, made with 🧡.  All suggestions are welc
 [Javascript Code Sample](images/js_code.png)  
   
 ### FuZZy Dark
-Work in Progress
+🥋 Work in progress. 🥋 
