@@ -17,12 +17,7 @@
 			{
 				"label": "FuZZy Theme",
 				"uiTheme": "vs",
-				"path": "./themes/FuZZy Theme-color-theme.json"
-			},
-			{
-				"label": "FuZZy Theme Dark",
-				"uiTheme": "vs",
-				"path": "./themes/fuzzy-theme-dark-color.json"
+				"path": "./themes/fuzzy-color-theme.json"
 			}
 		]
 	},
@@ -30,7 +25,6 @@
 		"fuzzy",
 		"theme",
 		"light",
-		"dark",
 		"blueish",
 		"eye care",
 		"decameron"
