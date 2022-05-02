@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "fuzzy" extension will be documented in this file.
+## 1.1.2
+- Simplify README to better convey the content
+- Refactor the code in a meaningful way
+- Add color palette adjustments to new explicit elements
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.1
+- Minor bugfix for incorrect code sample image
 
-## [Unreleased]
+## 1.1.0
+- Stable release for Light theme
 
-- Initial release
+## 0.0.1
+- Initial pre-release
