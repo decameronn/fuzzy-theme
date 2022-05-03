@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.2.0
+- Major updates to color palette (simplification)
+- Remove inconsistent color elements across all UI
+- Reduce theme file size
+
 ## 1.1.2
 - Simplify README to better convey the content
 - Refactor the code in a meaningful way
