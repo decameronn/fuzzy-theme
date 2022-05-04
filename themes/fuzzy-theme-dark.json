@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "FuZZy Theme",
-  "type": "light",
+  "type": "dark",
   "colors": {
     // Activity bar
     "activityBar.activeBorder": "#C5CBFF",
@@ -40,14 +40,14 @@
     "dropdown.border": "#C5CBFF",
     "dropdown.foreground": "#af1400",
     // Editor
-    "editor.background": "#fafafa",
-    "editor.foreground": "#01325f",
+    "editor.background": "#050505", //x
+    "editor.foreground": "#fecda0",  //x
     "editor.selectionBackground": "#b0ddfcaa",
     "editorWidget.background": "#ececec",
     "editorHoverWidget.background": "#ececec",
     "editorGroupHeader.tabsBackground": "#ececec",
     "editorLineNumber.activeForeground": "#fa8500",
-    "editor.lineHighlightBackground": "#dff2ffaa",
+    "editor.lineHighlightBackground": "#200d00aa", //x
     "editorCursor.foreground": "#01325f",
     "editorWhitespace.foreground": "#ececec",
     "editorBracketMatch.border": "#b0ddfcaa",
@@ -84,9 +84,10 @@
     // Title & Tab bars
     "tab.inactiveBackground": "#ececec",
     "tab.lastPinnedBorder": "#2e87ec",
-    "titleBar.activeBackground": "#e0e0e0",
+    "titleBar.activeBackground": "#1f1f1f", //x
+    "titleBar.inactiveBackground": "#303030", //x
     // Status bar
-    "statusBar.background": "#e0e0e0",
+    "statusBar.background": "#131313", //x
     "statusBar.foreground": "#01325f",
     "statusBar.debuggingBackground": "#ececec",
     "statusBar.debuggingForeground": "#01325f",
