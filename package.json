@@ -1,7 +1,7 @@
 {
 	"name": "fuzzy-theme",
 	"displayName": "FuZZy Theme",
-	"description": "A daylight FuZZy Theme, with eye-caring colors, made with 🧡",
+	"description": "A daylight and midnight FuZZy Theme, with eye-caring colors, made with 🧡",
 	"version": "1.2.0",
 	"author": "Decameron",
 	"publisher": "decameron",
@@ -18,13 +18,19 @@
 				"label": "FuZZy Theme",
 				"uiTheme": "vs",
 				"path": "./themes/fuzzy-theme.json"
-			}
+			},
+			{
+				"label": "FuZZy Theme Dark",
+				"uiTheme": "vs",
+				"path": "./themes/fuzzy-theme-dark.json"
+			}			
 		]
 	},
 	"keywords": [
 		"fuzzy",
 		"theme",
 		"light",
+		"dark",
 		"blueish",
 		"eye care",
 		"decameron"
