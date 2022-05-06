@@ -77,18 +77,18 @@
     "minimap.warningHighlight": "#cca700",
     // Panel
     "panelTitle.activeBorder": "#fa8500",
-    "panelTitle.activeForeground": "#1b60a5",
-    "panelTitle.inactiveForeground": "#2e87ec",
+    "panelTitle.activeForeground": "#2e87ec",
+    "panelTitle.inactiveForeground": "#1b60a5",
     // Selection
     "selection.background": "#b0ddfcbb",
     // Title & Tab bars
     "tab.inactiveBackground": "#131313", //x
     "tab.lastPinnedBorder": "#2e87ec",
-    "tab.activeForeground": "#fa8500", //fecda0
-    "tab.inactiveForeground": "#fecda0",
-    "tab.hoverForeground": "#fa8500",
-    "tab.unfocusedActiveForeground": "#fecda0",
-    "tab.unfocusedInactiveForeground": "#fa8500",
+    "tab.activeForeground": "#2e87ec", //
+    "tab.inactiveForeground": "#1b60a5",
+    "tab.hoverForeground": "#2e87ec",
+    "tab.unfocusedActiveForeground": "#2e87ec",
+    "tab.unfocusedInactiveForeground": "#1b60a5",
     "titleBar.activeBackground": "#1f1f1f", //x
     "titleBar.inactiveBackground": "#303030", //x
     "titleBar.activeForeground": "#fecda0",
