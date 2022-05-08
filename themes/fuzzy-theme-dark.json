@@ -19,9 +19,9 @@
     "banner.foreground": "#131313",  //x
     // Breadcrumb
     "breadcrumb.activeSelectionForeground": "#f7b365",
-    "breadcrumb.background": "#131313",  //x
-    "breadcrumb.focusForeground": "#22282b",
-    "breadcrumb.foreground": "#252526",
+    "breadcrumb.background": "#292929",  //x
+    "breadcrumb.focusForeground": "#f7b365",
+    "breadcrumb.foreground": "#d8ccab",
     "breadcrumbPicker.background": "#131313",  //x
     // Button
     "button.background": "#f7b365",
@@ -50,7 +50,8 @@
     "editor.lineHighlightBackground": "#200d00aa", //x
     "editorCursor.foreground": "#d8ccab",
     "editorWhitespace.foreground": "#131313",  //x
-    "editorBracketMatch.border": "#b0ddfcaa",
+    "editorBracketMatch.border": "#f7b365",
+
     // Extension Button
     "extensionButton.prominentBackground": "#f7b365",
     "extensionButton.prominentHoverBackground": "#f7b365",
@@ -64,12 +65,12 @@
     "inputValidation.errorBackground": "#d8ccab",
     "inputValidation.errorBorder": "#dc3958",
     // Lists & Quick Input
-    "list.activeSelectionBackground": "#b0ddfc",
+    "list.activeSelectionBackground": "#2e87ec",
     "list.activeSelectionForeground": "#d8ccab",
-    "list.inactiveSelectionBackground": "#131313",  //x
+    "list.inactiveSelectionBackground": "#1b60a5",  //x
     "list.inactiveSelectionForeground": "#d8ccab",
     "list.highlightForeground": "#f7b365",
-    "list.hoverBackground": "#c5e6fcbb",
+    "list.hoverBackground": "#2e87ec",
     // Minimap
     "minimap.errorHighlight": "#ff1212b3",
     "minimap.findMatchHighlight": "#d18616",
@@ -202,7 +203,7 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#07705f"
+        "foreground": "#139680" //07705f
       }
     },
     {
@@ -216,7 +217,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#af1400"
+        "foreground": "#b89c03" //af1400
       }
     },
     {
