@@ -85,9 +85,9 @@
     // Title & Tab bars
     "tab.inactiveBackground": "#131313", //x
     "tab.lastPinnedBorder": "#2e87ec",
-    "tab.activeForeground": "#2e87ec", //
-    "tab.inactiveForeground": "#1b60a5",
-    "tab.hoverForeground": "#2e87ec",
+    "tab.activeForeground": "#55a4ff", //
+    "tab.inactiveForeground": "#2e87ec",
+    "tab.hoverForeground": "#55a4ff",
     "tab.unfocusedActiveForeground": "#2e87ec",
     "tab.unfocusedInactiveForeground": "#1b60a5",
     "titleBar.activeBackground": "#1f1f1f", //x
@@ -217,7 +217,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#b89c03" //af1400
+        "foreground": "#d49100" //af1400 b89c03
       }
     },
     {
