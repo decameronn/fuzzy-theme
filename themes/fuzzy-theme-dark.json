@@ -64,12 +64,12 @@
     "inputValidation.warningBackground": "#d8ccab",
     "inputValidation.errorBackground": "#d8ccab",
     "inputValidation.errorBorder": "#dc3958",
-    // Lists & Quick Input
+    // Lists
     "list.activeSelectionBackground": "#2e87ec",
     "list.activeSelectionForeground": "#d8ccab",
     "list.inactiveSelectionBackground": "#1b60a5",  //x
     "list.inactiveSelectionForeground": "#d8ccab",
-    "list.highlightForeground": "#f7b365",
+    "list.highlightForeground": "#f7b365", //f7b365
     "list.hoverBackground": "#2e87ec",
     // Minimap
     "minimap.errorHighlight": "#ff1212b3",
@@ -80,6 +80,13 @@
     "panelTitle.activeBorder": "#f7b365",
     "panelTitle.activeForeground": "#2e87ec",
     "panelTitle.inactiveForeground": "#1b60a5",
+    // Quick input
+    "quickInput.background": "#222222",
+    "quickInput.foreground": "#d8ccab",
+    "quickInputList.focusBackground": "#292928",
+    "quickInputList.focusForeground": "#f7b365",
+    "quickInputTitle.background": "#ffffff1b",
+    "quickInputList.focusIconForeground": "#f7b365",
     // Selection
     "selection.background": "#b0ddfcbb",
     // Title & Tab bars
