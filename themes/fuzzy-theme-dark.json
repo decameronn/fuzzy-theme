@@ -44,7 +44,13 @@
     "editor.foreground": "#d8ccab",  //x
     "editor.selectionBackground": "#b0ddfcaa",
     "editorWidget.background": "#131313",  //x
-    "editorHoverWidget.background": "#131313",  //x
+
+    // hover widget
+    "editorHoverWidget.background": "#222222",
+    "editorHoverWidget.border": "#454545",
+    "editorHoverWidget.foreground": "#d8ccab",
+    "editorHoverWidget.statusBarBackground": "#2c2c2d",
+
     "editorGroupHeader.tabsBackground": "#131313",  //x
     "editorLineNumber.activeForeground": "#f7b365",
     "editor.lineHighlightBackground": "#200d00aa", //x
@@ -69,8 +75,8 @@
     "list.activeSelectionForeground": "#d8ccab",
     "list.inactiveSelectionBackground": "#1b60a5",  //x
     "list.inactiveSelectionForeground": "#d8ccab",
-    "list.highlightForeground": "#f7b365", //f7b365
-    "list.hoverBackground": "#2e87ec",
+    "list.highlightForeground": "#1b60a5", //f7b365
+    "list.hoverBackground": "#1b60a5",  //2e87ec
     // Minimap
     "minimap.errorHighlight": "#ff1212b3",
     "minimap.findMatchHighlight": "#d18616",
@@ -83,7 +89,7 @@
     // Quick input
     "quickInput.background": "#222222",
     "quickInput.foreground": "#d8ccab",
-    "quickInputList.focusBackground": "#292928",
+    "quickInputList.focusBackground": "#1b60a5", //292928
     "quickInputList.focusForeground": "#f7b365",
     "quickInputTitle.background": "#ffffff1b",
     "quickInputList.focusIconForeground": "#f7b365",
