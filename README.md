@@ -1,7 +1,7 @@
 # FuZZy Theme for Visual Studio Code
 
 ## News
-We are please to announce the release of the Dark FuZZy Theme!
+We are pleased to announce the release of the Dark FuZZy Theme!
 
 ## About
 A light & dark, eye-caring theme for VS Code, made with 🧡.  
