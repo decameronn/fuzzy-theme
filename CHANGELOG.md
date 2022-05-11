@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.3.0
+- Dark Theme release
+- refactor theme code
+
 ## 1.2.0
 - Major updates to color palette (simplification)
 - Remove inconsistent color elements across all UI
